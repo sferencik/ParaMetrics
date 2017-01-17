@@ -4,13 +4,13 @@
     <name>para-metrics</name>
     <display-name>para-metrics</display-name>
     <version>@Version@</version>
-    <description>Plugin description</description>
+    <description>Publish a build parameter as a build statistic</description>
     <download-url>Plugin download URL</download-url>
-    <email>Plugin author e-mail</email>
+    <email>sferencik+parametrics@gmail.com</email>
     <vendor>
       <name>@VendorName@</name>
       <url>@VendorURL@</url>
-      <logo>Plugin vendor logo URL</logo>
+      <logo>https://goo.gl/9GFxbY</logo>
     </vendor>
   </info>
   <deployment use-separate-classloader="true" />
