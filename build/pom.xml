@@ -11,8 +11,8 @@
   <properties>
       <maven.build.timestamp.format>yyyyMMddHHmmss</maven.build.timestamp.format>
       <teamcity.para-metrics.plugin.version>snapshot-${maven.build.timestamp}</teamcity.para-metrics.plugin.version>
-      <teamcity.sin-city.plugin.vendorName>Sam Ferencik</teamcity.sin-city.plugin.vendorName>
-      <teamcity.sin-city.plugin.vendorUrl>https://cz.linkedin.com/in/sferencik</teamcity.sin-city.plugin.vendorUrl>
+      <teamcity.para-metrics.plugin.vendorName>Sam Ferencik</teamcity.para-metrics.plugin.vendorName>
+      <teamcity.para-metrics.plugin.vendorUrl>https://cz.linkedin.com/in/sferencik</teamcity.para-metrics.plugin.vendorUrl>
   </properties>
   <dependencies>
       <dependency>
