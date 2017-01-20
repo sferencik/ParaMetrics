@@ -1,8 +1,8 @@
 # ParaMetrics: publish any parameter as a build statistic
 
 ParaMetrics is a TeamCity plugin that lets you publish any parameter value as a build statistic. To do this, add
-ParaMetrics as a build feature to your build, specifying which parameter should be published with under what statistics
-key name.
+ParaMetrics as a build feature to your build, specifying which parameter should be published under what statistics key
+name.
 
 You can add this build feature multiple times.
 
