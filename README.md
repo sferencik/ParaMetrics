@@ -12,5 +12,5 @@ If the parameter is unset when the build finishes, the statistic is not publishe
 ## Development notes
 To build, test, and package the plugin, run `mvn package` from the root directory.
 
-To deploy the plugin, copy `target/para-metrics.zip` into the TeamCity plugin directory and restart the server.
+To deploy the plugin, copy `para-metrics.zip` into the TeamCity plugin directory and restart the server. If you've built locally, get the zip file from `target/para-metrics.zip`; otherwise grab the [latest released version](https://github.com/sferencik/ParaMetrics/releases).
 
