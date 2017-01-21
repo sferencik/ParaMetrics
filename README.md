@@ -1,5 +1,4 @@
-# ParaMetrics: publish any parameter as a build statistic [![Build
-Status](https://travis-ci.org/sferencik/ParaMetrics.svg?branch=master)](https://travis-ci.org/sferencik/ParaMetrics)
+# ParaMetrics: publish any parameter as a build statistic [![Build Status](https://travis-ci.org/sferencik/ParaMetrics.svg?branch=master)](https://travis-ci.org/sferencik/ParaMetrics)
 
 ParaMetrics is a TeamCity plugin that lets you publish any parameter value as a build statistic. To do this, add
 ParaMetrics as a build feature to your build, specifying which parameter should be published under what statistics key
