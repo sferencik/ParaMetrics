@@ -9,6 +9,8 @@ You can add this build feature multiple times.
 ## Technical notes
 If the parameter is unset when the build finishes, the statistic is not published.
 
+The statistics are published in the "build finished" phase (see `BuildServerAdapter.buildFinished()`).
+
 ## Development notes
 To build, test, and package the plugin, run `mvn package` from the root directory.
 
